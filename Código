@@ -1,3 +1,4 @@
+//Enlace WOKWI:https://wokwi.com/projects/463327584130075649
 #define PIN_LED1       25   
 #define PIN_LED2       26  
 #define PIN_POT1       34   
